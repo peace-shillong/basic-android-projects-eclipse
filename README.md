@@ -10,7 +10,7 @@ The repository consists of Android Projects build using eclipse and for educatio
 * Day 3 -> Project to be added
 * Day 4 -> Project to be added
 * Day 5 -> Project to be added
-* Day 6 -> Project to be added
+* Day 6 -> 1. Using Gallery : Learning how to use the Gallery and select a photo to display an image from the gallery
 * Day 7 -> Project to be added
 * Day 8 -> Project to be added
 * Day 9 -> Project to be added
