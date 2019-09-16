@@ -19,6 +19,6 @@ The repository consists of Android Projects build using eclipse and for educatio
            Continue Working BirthDay App Part 2
 * Day 8 -> Complete Bithday App
            Saving Data to SQLite Db
-* Day 9 -> Project to be added
+* Day 9 -> Group Project folder
 
 Recommended to use Android Studio to build android applications.
